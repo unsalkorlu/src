@@ -7,6 +7,7 @@
     <packaging>pom</packaging>
     <name>ukorlu</name>
     <modules>
-    	<module>test</module>
+    	<module>service</module>
+    	<module>common</module>
     </modules>
 </project>
